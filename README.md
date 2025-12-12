@@ -2,14 +2,16 @@
 
 ### Case Study Presentation by Komal Rani
 
+### MBA – First Year | Foundation of Marketing Management (FMM)
+
 *(Only my original analysis and PPT are included. The original case PDF is **not uploaded** due to copyright restrictions.)*
 
 ---
 
 ## Overview
 
-This repository contains my academic presentation analyzing how **Generative AI (GenAI)** is transforming modern **Market Research**.
-The project summarizes key concepts from the assigned case, along with my own interpretation of how GenAI improves research efficiency, creativity, and insight generation.
+This repository contains my academic presentation prepared as part of the **Foundation of Marketing Management (FMM)** course during my **MBA First Year**.
+The project analyzes how **Generative AI (GenAI)** is transforming modern **Market Research**. It summarizes key concepts from the assigned case, along with my own interpretation of how GenAI improves research efficiency, creativity, and insight generation.
 
 This README serves as a clear summary of the project structure and the insights presented in the PPT.
 
@@ -22,7 +24,7 @@ This README serves as a clear summary of the project structure and the insights 
 │
 ├── GenAI_MktRes.pptx   ← My original PPT (analysis only)
 │
-└── README.md               ← Case Study summary
+└── README.md            ← Case Study summary
 ```
 
 ---
@@ -135,5 +137,3 @@ Based on the analysis, the project recommends:
 This repository includes **only my original work** (presentation and summary).
 The **copyrighted case study PDF is not included**.
 All explanations in the PPT and README are paraphrased and based on my understanding.
-
-
