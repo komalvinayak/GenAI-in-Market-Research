@@ -20,10 +20,9 @@ This README serves as a clear summary of the project structure and the insights 
 ```
 📁 GenAI-Market-Research/
 │
-├── presentation/
-│   └── GenAI_MktRes.pptx   ← My original PPT (analysis only)
+├── GenAI_MktRes.pptx   ← My original PPT (analysis only)
 │
-└── README.md               ← Project summary
+└── README.md               ← Case Study summary
 ```
 
 ---
