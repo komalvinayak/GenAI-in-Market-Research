@@ -136,4 +136,3 @@ Based on the analysis, the project recommends:
 
 This repository includes **only my original work** (presentation and summary).
 The **copyrighted case study PDF is not included**.
-All explanations in the PPT and README are paraphrased and based on my understanding.
