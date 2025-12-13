@@ -1,6 +1,6 @@
 # The Generative AI Revolution in Market Research
 
-### Case Study Presentation by Komal Rani
+### Case Analysis
 
 ### MBA – First Year | Foundation of Marketing Management (FMM)
 
