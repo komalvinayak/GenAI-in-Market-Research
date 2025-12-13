@@ -16,6 +16,7 @@ The project analyzes how **Generative AI (GenAI)** is transforming modern **Mark
 This README serves as a clear summary of the project structure and the insights presented in the PPT.
 
 ---
+![PPT Preview](Screenshots/1.png)
 
 ## Repository Contents
 
@@ -36,7 +37,7 @@ In market research, GenAI provides companies with faster insights, deeper unders
 
 This project highlights how GenAI is reshaping the industry across all stages of the research process.
 
-![PPT Preview](Screenshots/1.png)
+![PPT Preview](Screenshots/2.png)
 
 ---
 
@@ -56,9 +57,11 @@ GenAI solves these gaps by:
 * Generating synthetic data
 * Supporting decision-making with instant insights
 
+![PPT Preview](Screenshots/3.png)
 ---
 
 ## 3. Four Major Opportunity Areas
+![PPT Preview](Screenshots/4.png)
 
 ### 3.1 Supporting Current Practices
 
@@ -97,6 +100,7 @@ GenAI enables innovations such as:
 * Pre-testing marketing messages
 
 ---
+![PPT Preview](Screenshots/5.png)
 
 ## 4. Limitations and Ethical Considerations
 
