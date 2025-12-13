@@ -36,6 +36,8 @@ In market research, GenAI provides companies with faster insights, deeper unders
 
 This project highlights how GenAI is reshaping the industry across all stages of the research process.
 
+![PPT Preview](Screenshots/1.png)
+
 ---
 
 ## 2. Why Market Research Needs GenAI
