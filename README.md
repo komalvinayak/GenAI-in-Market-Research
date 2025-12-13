@@ -4,8 +4,6 @@
 
 ### MBA – First Year | Foundation of Marketing Management (FMM)
 
-*(Only my original analysis and PPT are included. The original case PDF is **not uploaded** due to copyright restrictions.)*
-
 ---
 
 ## Overview
@@ -143,3 +141,6 @@ Based on the analysis, the project recommends:
 
 This repository includes **only my original work** (presentation and summary).
 The **copyrighted case study PDF is not included**.
+
+
+Note *(Only my original analysis and PPT are included. The original case PDF is **not uploaded** due to copyright restrictions.)*
