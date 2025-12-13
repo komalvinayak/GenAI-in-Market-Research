@@ -114,6 +114,7 @@ Although powerful, GenAI has limitations such as:
 
 Human validation remains essential for accurate and ethical results.
 
+![PPT Preview](Screenshots/6.png)
 ---
 
 ## 5. Recommendations
@@ -135,7 +136,7 @@ Based on the analysis, the project recommends:
 * Synthetic data and digital twins open new opportunities
 * Ethical and accuracy issues require careful oversight
 * The future of research relies on **Human + AI collaboration**
-
+![PPT Preview](Screenshots/7.png)
 ---
 
 ## 7. Disclaimer
